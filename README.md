@@ -9,7 +9,7 @@
 
 ## 🚀 [Live Demo](https://jmesplana.github.io/pdfcraft)
 
-![PDFCraft Screenshot](docs/screenshot.png)
+[![PDFCraft Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_PDFCraft_Now-blue?style=for-the-badge)](https://jmesplana.github.io/pdfcraft)
 
 ## ✨ Features
 
@@ -73,11 +73,9 @@ pdfcraft/
 ├── ⚡ landing-script.js     # Landing page interactions
 ├── ⚡ script.js             # Core PDF merger functionality
 ├── 📚 README.md             # Project documentation
-├── ⚙️ .github/              # GitHub configuration
-│   └── workflows/
-│       └── pages.yml        # GitHub Pages deployment
-└── 📸 docs/                 # Documentation assets
-    └── screenshot.png       # Application screenshot
+└── ⚙️ .github/              # GitHub configuration
+    └── workflows/
+        └── pages.yml        # GitHub Pages deployment
 ```
 
 ## 🛠️ Technology Stack
