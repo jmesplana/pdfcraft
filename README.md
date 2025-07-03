@@ -124,7 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **John Mark Esplana**
 - GitHub: [@jmesplana](https://github.com/jmesplana)
-- LinkedIn: [John Mark Esplana](https://linkedin.com/in/johnmarkesplana)
+- LinkedIn: [John Mark Esplana](https://linkedin.com/in/johnesplana)
 
 ## 🙏 Acknowledgments
 
@@ -189,7 +189,7 @@ A: Yes! Once loaded, PDFCraft works completely offline.
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/johnmarkesplana">John Mark Esplana</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/jmesplana">John Mark Esplana</a></p>
   <p>
     <a href="https://jmesplana.github.io/pdfcraft">🌐 Live Demo</a> •
     <a href="https://github.com/jmesplana/pdfcraft/issues">🐛 Report Bug</a> •
