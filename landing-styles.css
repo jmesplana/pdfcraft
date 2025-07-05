@@ -702,6 +702,7 @@ body {
     border: 1px solid var(--border-color);
     cursor: pointer;
     transition: all 0.3s ease;
+    text-decoration: none;
 }
 
 .github-stat:hover {
